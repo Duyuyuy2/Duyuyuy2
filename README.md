@@ -1,8 +1,8 @@
-# Introducing Myself 🙋
+# Hi there 🙋
+I'm a grad student who loves tinkering with data, automating workflows, and making things run smoother behind the scenes.
 
 
-
-## 💡 My Skills
+## 💡 My Interests
 
 Data preparation, quality assurance, and analysis
 
