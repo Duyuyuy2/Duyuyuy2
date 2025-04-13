@@ -15,9 +15,11 @@ Exploratory data analysis
 ## 🛠️ My Tools
 Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
 
-Python: NumPy, Pandas
+Python: NumPy, Pandas, SKlearn
 
 Visualisation: Tableau, Matplotlib, Seaborn, D3.js
+
+Automation tools: Power Automate, Power App, N8N, UIpath
 
 Big data analytic tool: Pyspark
 ## 🙌🏻 Connect with Me
@@ -60,6 +62,7 @@ Still me but younger
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duyuyuy&repo=US_Aviation_Report&theme=gruvbox" />
 </a>
-
-
+<a href="https://github.com/Duyuyuy/US_Aviation_Report/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Duyuyuy&repo=Music-Genre-Classification&theme=gruvbox" />
 </a>
