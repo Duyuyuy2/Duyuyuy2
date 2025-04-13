@@ -32,15 +32,16 @@ Big data analytic tool: Pyspark
 </a>
 &nbsp; &nbsp; &nbsp;
 
+<a href="mailto:tranbaoduy654772@gmail.com">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />
+</a>
+&nbsp; &nbsp; &nbsp;
 <a href="https://github.com/Duyuyuy">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" height="48" width="48" />
 </a>
 Still me but younger
 
-&nbsp; &nbsp; &nbsp;
-<a href="mailto:tranbaoduy654772@gmail.com">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />
-</a>
+
 
 
 ##  📚 Projects 📚
