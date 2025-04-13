@@ -36,6 +36,10 @@ Big data analytic tool: Pyspark
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />
 </a>
 
+<a href="https://github.com/Duyuyuy">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" />
+</a>
+
 ##  📚 Projects 📚
 
 <!-- ![Duy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Duyuyuy&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
