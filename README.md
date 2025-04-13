@@ -33,7 +33,7 @@ Big data analytic tool: Pyspark
 &nbsp; &nbsp; &nbsp;
 
 <a href="https://github.com/Duyuyuy">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" height="48" width="48" />
 </a>
 &nbsp; &nbsp; &nbsp;
 <a href="mailto:tranbaoduy654772@gmail.com">
